@@ -30,6 +30,8 @@ Software developer, day in and day out learning to solve new problems, which hop
 	<img width="3" />
 	<img src="https://skillicons.dev/icons?i=cs" height="35" alt="tailwindcss logo"  />
 	<img width="3" />
+	<img src="https://skillicons.dev/icons?i=py" height="35" alt="tailwindcss logo"  />
+	<img width="3" />
 	<img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
 	<img width="3" />
 	<img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
@@ -43,6 +45,10 @@ Software developer, day in and day out learning to solve new problems, which hop
 	<img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
 	<img width="3" />
 	<img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="vscode logo"  />
+	<img width="3" />
+	<img src="https://skillicons.dev/icons?i=postman" height="35" alt="vscode logo"  />
+	<img width="3" />
+	<img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="vscode logo"  />
 	<img width="3" />
 	<img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
 	<img width="3" />
