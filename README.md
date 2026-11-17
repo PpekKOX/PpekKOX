@@ -1,12 +1,12 @@
 ###
 
 
-# Hi There👋
+# Hi There 🙄
 
 
 ###
 
-## 👨‍💻 About
+## 👨‍💻 About me
 
 ###
 
