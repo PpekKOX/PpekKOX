@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PpekKOX&show_icons=true&theme=react&hide_border=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PpekKOX&layout=compact&theme=react&hide_border=true)
+
 <!--
 **PpekKOX/PpekKOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
