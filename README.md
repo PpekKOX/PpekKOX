@@ -10,7 +10,7 @@
 
 ###
 
-Software developer, day in and day out learning to solve new problems, which hopefully will always be there, since a new problem is a new journey to cross. I enjoy making life easier for people who may struggle with the same issues and I've been struggling with.
+Software developer, day in and day out learning to solve new problems, which hopefully will always be there, since a new problem is a new journey to cross. I enjoy making life easier for people who may struggle with the same issues I've been struggling with.
 
 ###
 
